@@ -1,0 +1,12 @@
+.color1 {
+    color: blueviolet;
+}
+.font1 {
+    font-size: 80px;
+}
+* {background-color: white;}
+p {color: black;}
+
+.t1 td {
+    border: 1xp solid red;
+}
